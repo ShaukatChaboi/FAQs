@@ -9,6 +9,8 @@ html {
 body{
   width: 100vw;
   height: 100vh;
+  background: url("./assets/images/background-pattern-desktop.svg") no-repeat;
+  background-position: top center;
   background-color: hsl(275, 100%, 97%);
   background-size: auto;
   display: flex;
@@ -19,14 +21,7 @@ body{
   font-size: 16px;
 
 }
-.bg{
-
-  position: absolute;
-  width: 100%;
-  top: 0;
-}
 .faq-panel{
-   
    width: 650px;
    padding: 1rem 2rem;
    margin-top: 10%;

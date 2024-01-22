@@ -1,6 +1,5 @@
 import React from "react";
 import starIMG from "../assets/images/icon-star.svg";
-import background from "../assets/images/background-pattern-desktop.svg"
 //import { useState } from 'react'
 import questionData from '../assets/questionData';
 import Question from "./Question";
@@ -9,8 +8,7 @@ const FaqPanel = () => {
 
 
   return (
-    <div className='faq-panel'>
-       <img className="bg" src='./' alt="background"/>
+    <div className='faq-panel'>   
       <div className='faq-header'>
         <img src={starIMG} alt='star logo' />
         <h1>FAQs</h1>
