@@ -12,7 +12,6 @@ body{
   background: url("./assets/images/background-pattern-desktop.svg") no-repeat;
   background-position: top center;
   background-color: hsl(275, 100%, 97%);
-  background-size: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
