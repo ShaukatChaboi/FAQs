@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FAQs/static/css/main.c53c948f.css",
+    "main.js": "/FAQs/static/js/main.4c5a665e.js",
+    "static/media/background-pattern-mobile.svg": "/FAQs/static/media/background-pattern-mobile.bbadbddabee663bba888.svg",
+    "static/media/background-pattern-desktop.svg": "/FAQs/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/FAQs/index.html",
+    "static/media/icon-star.svg": "/FAQs/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/FAQs/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/FAQs/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.c53c948f.css.map": "/FAQs/static/css/main.c53c948f.css.map",
+    "main.4c5a665e.js.map": "/FAQs/static/js/main.4c5a665e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53c948f.css",
+    "static/js/main.4c5a665e.js"
+  ]
+}
